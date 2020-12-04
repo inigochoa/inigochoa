@@ -30,7 +30,7 @@ Here's a little bit of me.
 ![Vue.js badge][vuejs]
 ![GraphQL badge][graphql]
 
-## :male-technologist: What I have done
+## :man_technologist: What I have done
 
 [![ReadMe Card][porg]][porg link]
 [![ReadMe Card][monitorbot]][monitorbot link]
