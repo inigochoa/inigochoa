@@ -28,8 +28,8 @@ of the documentation.
 miss anything.
 * Write clear, concise commit message(s). Documentation commits should use
 `docs: <message>`.
-* Go to https://github.com/inigochoa/inigochoa/pulls and open a new pull request
-with your changes.
+* Go to <https://github.com/inigochoa/inigochoa/pulls> and open a new pull
+request with your changes.
 * If your PR is connected to an open issue, add a line in your PR's description
 that says `Fixes: #123`, where `#123` is the number of the issue you're fixing.
 
