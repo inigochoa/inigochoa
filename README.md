@@ -32,6 +32,8 @@ Here's a little bit of me.
 
 ## :man_technologist: What I have done
 
+[![ReadMe Card][inigochoa-me]][inigochoa-me link]
+[![ReadMe Card][wiki]][Wiki link]
 [![ReadMe Card][porg]][porg link]
 [![ReadMe Card][monitorbot]][monitorbot link]
 [![ReadMe Card][sw-tools]][sw-tools link]
@@ -73,10 +75,14 @@ Here's a little bit of me.
 [vuejs]: https://img.shields.io/badge/Vue.js-4FC08D?logo=Vue.js&logoColor=white&style=for-the-badge "Vue.js"
 [graphql]: https://img.shields.io/badge/GraphQL-E10098?logo=GraphQL&logoColor=white&style=for-the-badge "GraphQL"
 
+[inigochoa-me]: https://github-readme-stats.vercel.app/api/pin/?username=inigochoa&repo=inigochoa.me
+[inigochoa-me link]: https://github.com/inigochoa/inigochoa.me "See portfolio code on GitHub"
+[wiki]: https://github-readme-stats.vercel.app/api/pin/?username=inigochoa&repo=wiki
+[wiki link]: https://github.com/inigochoa/wiki "See wiki code on GitHub"
 [porg]: https://github-readme-stats.vercel.app/api/pin/?username=inigochoa&repo=porg
 [porg link]: https://github.com/inigochoa/porg "See porg code on GitHub"
 [monitorbot]: https://github-readme-stats.vercel.app/api/pin/?username=inigochoa&repo=monitorbot
-[monitorbot link]: https://github.com/inigochoa/github-readme-stats "See monitorbot code on GitHub"
+[monitorbot link]: https://github.com/inigochoa/monitorbot "See monitorbot code on GitHub"
 [sw-tools]: https://github-readme-stats.vercel.app/api/pin/?username=veiss-com&repo=sw-tools&show_owner=true
 [sw-tools link]: https://github.com/veiss-com/sw-tools "See sw-tools code on GitHub"
 
