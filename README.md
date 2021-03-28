@@ -33,7 +33,6 @@ Here's a little bit of me.
 ## :man_technologist: What I have done
 
 [![ReadMe Card][inigochoa-me]][inigochoa-me link]
-[![ReadMe Card][wiki]][Wiki link]
 [![ReadMe Card][porg]][porg link]
 [![ReadMe Card][monitorbot]][monitorbot link]
 [![ReadMe Card][sw-tools]][sw-tools link]
@@ -42,9 +41,6 @@ Here's a little bit of me.
 
 [![Website badge][website]][website link]
 [![Twitter badge][twitter]][twitter link]
-[![eMail badge][email]][email link]
-[![Linkedin badge][linkedin]][linkedin link]
-[![Spotify badge][spotify]][spotify link]
 [![Buy me a coffee badge][buy me a coffee]][buy me a coffee link]
 
 ---
@@ -69,16 +65,14 @@ Here's a little bit of me.
 [drupal]: https://img.shields.io/badge/drupal-0678BE?logo=drupal&logoColor=white&style=for-the-badge "Drupal 6 & 7"
 [ubuntu]: https://img.shields.io/badge/Ubuntu-E95420?logo=Ubuntu&logoColor=white&style=for-the-badge "Ubuntu 14, 16, 18 & 20"
 [telegram bots]: https://img.shields.io/badge/Telegram%20Bots-2CA5E0?logo=Telegram&logoColor=white&style=for-the-badge "Telegram bots"
+[eleventy]: https://img.shields.io/badge/Eleventy-000000?logo=Eleventy&logoColor=white&style=for-the-badge "11ty"
 
 [scripting]: https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=GNU-bash&logoColor=white&style=for-the-badge "Bash scripting"
-[eleventy]: https://img.shields.io/badge/Eleventy-000000?logo=Eleventy&logoColor=white&style=for-the-badge "11ty"
 [vuejs]: https://img.shields.io/badge/Vue.js-4FC08D?logo=Vue.js&logoColor=white&style=for-the-badge "Vue.js"
 [graphql]: https://img.shields.io/badge/GraphQL-E10098?logo=GraphQL&logoColor=white&style=for-the-badge "GraphQL"
 
 [inigochoa-me]: https://github-readme-stats.vercel.app/api/pin/?username=inigochoa&repo=inigochoa.me
 [inigochoa-me link]: https://github.com/inigochoa/inigochoa.me "See portfolio code on GitHub"
-[wiki]: https://github-readme-stats.vercel.app/api/pin/?username=inigochoa&repo=wiki
-[wiki link]: https://github.com/inigochoa/wiki "See wiki code on GitHub"
 [porg]: https://github-readme-stats.vercel.app/api/pin/?username=inigochoa&repo=porg
 [porg link]: https://github.com/inigochoa/porg "See porg code on GitHub"
 [monitorbot]: https://github-readme-stats.vercel.app/api/pin/?username=inigochoa&repo=monitorbot
@@ -90,12 +84,6 @@ Here's a little bit of me.
 [website link]: https://inigochoa.me/ "Visit my site"
 [twitter]: https://img.shields.io/badge/@inigochoa-1DA1F2?logo=Twitter&logoColor=white&style=for-the-badge
 [twitter link]: https://twitter.com/inigochoa "Find me on twitter"
-[email]: https://img.shields.io/badge/contact@inigochoa.me-D14836?logo=Gmail&logoColor=white&style=for-the-badge
-[email link]: mailto:contact@inigochoa.me "Send me an eMail"
-[linkedin]: https://img.shields.io/badge/Iñigo%20Ochoa-0077B5?logo=Linkedin&logoColor=white&style=for-the-badge
-[linkedin link]: https://www.linkedin.com/in/i%C3%B1igo-ochoa-estarrona-49046a43/ "Read my bio on LinkedIn"
-[spotify]: https://img.shields.io/badge/Spotify-1ED760?logo=Spotify&logoColor=white&style=for-the-badge
-[spotify link]: https://open.spotify.com/user/bragadoccio "This is what I listen to"
 [buy me a coffee]: https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?logo=Buy%20Me%20A%20Coffee&logoColor=black&style=for-the-badge
 [buy me a coffee link]: https://www.buymeacoffee.com/inigochoa "Buy me a coffee"
 
