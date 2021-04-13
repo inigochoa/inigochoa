@@ -22,20 +22,21 @@ Here's a little bit of me.
 ![Drupal badge][drupal]
 ![Ubuntu  badge][ubuntu]
 ![Telegram badge][telegram bots]
+![11ty badge][eleventy]
+![Vue.js badge][vuejs]
 
 ## :books: Future stack goals
 
 ![Bash scripting badge][scripting]
-![11ty badge][eleventy]
-![Vue.js badge][vuejs]
 ![GraphQL badge][graphql]
 
 ## :man_technologist: What I have done
 
-[![ReadMe Card][inigochoa-me]][inigochoa-me link]
-[![ReadMe Card][porg]][porg link]
+[![ReadMe Card][monitorbot-statuspage]][monitorbot-statuspage link]
 [![ReadMe Card][monitorbot]][monitorbot link]
 [![ReadMe Card][sw-tools]][sw-tools link]
+[![ReadMe Card][inigochoa-me]][inigochoa-me link]
+[![ReadMe Card][inigochoa-npm]][inigochoa-npm link]
 
 ## :mailbox: How can you reach me
 
@@ -66,19 +67,21 @@ Here's a little bit of me.
 [ubuntu]: https://img.shields.io/badge/Ubuntu-E95420?logo=Ubuntu&logoColor=white&style=for-the-badge "Ubuntu 14, 16, 18 & 20"
 [telegram bots]: https://img.shields.io/badge/Telegram%20Bots-2CA5E0?logo=Telegram&logoColor=white&style=for-the-badge "Telegram bots"
 [eleventy]: https://img.shields.io/badge/Eleventy-000000?logo=Eleventy&logoColor=white&style=for-the-badge "11ty"
+[vuejs]: https://img.shields.io/badge/Vue.js-4FC08D?logo=Vue.js&logoColor=white&style=for-the-badge "Vue.js"
 
 [scripting]: https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=GNU-bash&logoColor=white&style=for-the-badge "Bash scripting"
-[vuejs]: https://img.shields.io/badge/Vue.js-4FC08D?logo=Vue.js&logoColor=white&style=for-the-badge "Vue.js"
 [graphql]: https://img.shields.io/badge/GraphQL-E10098?logo=GraphQL&logoColor=white&style=for-the-badge "GraphQL"
 
-[inigochoa-me]: https://github-readme-stats.vercel.app/api/pin/?username=inigochoa&repo=inigochoa.me
-[inigochoa-me link]: https://github.com/inigochoa/inigochoa.me "See portfolio code on GitHub"
-[porg]: https://github-readme-stats.vercel.app/api/pin/?username=inigochoa&repo=porg
-[porg link]: https://github.com/inigochoa/porg "See porg code on GitHub"
+[monitorbot-statuspage]: https://github-readme-stats.vercel.app/api/pin/?username=inigochoa&repo=monitorbot-statuspage
+[monitorbot-statuspage link]: https://github.com/inigochoa/monitorbot-statuspage "See monitorbot status page code on GitHub"
 [monitorbot]: https://github-readme-stats.vercel.app/api/pin/?username=inigochoa&repo=monitorbot
 [monitorbot link]: https://github.com/inigochoa/monitorbot "See monitorbot code on GitHub"
 [sw-tools]: https://github-readme-stats.vercel.app/api/pin/?username=veiss-com&repo=sw-tools&show_owner=true
 [sw-tools link]: https://github.com/veiss-com/sw-tools "See sw-tools code on GitHub"
+[inigochoa-me]: https://github-readme-stats.vercel.app/api/pin/?username=inigochoa&repo=inigochoa.me
+[inigochoa-me link]: https://github.com/inigochoa/inigochoa.me "See portfolio code on GitHub"
+[inigochoa-npm]: https://github-readme-stats.vercel.app/api/pin/?username=inigochoa&repo=inigochoa-npm
+[inigochoa-npm link]: https://github.com/inigochoa/inigochoa-npm "See NPM Card code on GitHub"
 
 [website]: https://img.shields.io/badge/inigochoa.me-E5A00D?logo=Plex&logoColor=white&style=for-the-badge
 [website link]: https://inigochoa.me/ "Visit my site"
