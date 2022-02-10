@@ -32,6 +32,12 @@ Here's a little bit of me.
 ![GraphQL badge][graphql]
 ![Rust badge][rust]
 
+## :man_technologist: What I have done
+
+[![ReadMe Card][monitorbot]][monitorbot link]
+[![ReadMe Card][inigochoa-me]][inigochoa-me link]
+[![ReadMe Card][inigochoa-npm]][inigochoa-npm link]
+
 ## :mailbox: How can you reach me
 
 [![Website badge][website]][website link]
@@ -61,6 +67,13 @@ Here's a little bit of me.
 [scripting]: https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=GNU-bash&logoColor=white&style=for-the-badge "Bash scripting"
 [graphql]: https://img.shields.io/badge/GraphQL-E10098?logo=GraphQL&logoColor=white&style=for-the-badge "GraphQL"
 [rust]: https://img.shields.io/badge/Rust-000000?logo=Rust&logoColor=white&style=for-the-badge "Rust"
+
+[monitorbot]: https://github-readme-stats.vercel.app/api/pin/?username=inigochoa&repo=monitorbot
+[monitorbot link]: https://github.com/inigochoa/monitorbot "See monitorbot code on GitHub"
+[inigochoa-me]: https://github-readme-stats.vercel.app/api/pin/?username=inigochoa&repo=inigochoa.me
+[inigochoa-me link]: https://github.com/inigochoa/inigochoa.me "See portfolio code on GitHub"
+[inigochoa-npm]: https://github-readme-stats.vercel.app/api/pin/?username=inigochoa&repo=inigochoa-npm
+[inigochoa-npm link]: https://github.com/inigochoa/inigochoa-npm "See NPM Card code on GitHub"
 
 [website]: https://img.shields.io/badge/inigochoa.me-E5A00D?logo=Plex&logoColor=white&style=for-the-badge
 [website link]: https://inigochoa.me/ "Visit my site"
