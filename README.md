@@ -26,6 +26,12 @@ Here's a little bit of me.
 ![Vue.js badge][vuejs]
 ![11ty badge][eleventy]
 
+## :books: Future stack goals
+
+![Bash scripting badge][scripting]
+![GraphQL badge][graphql]
+![Rust badge][rust]
+
 ## :mailbox: How can you reach me
 
 [![Website badge][website]][website link]
@@ -51,6 +57,10 @@ Here's a little bit of me.
 [ubuntu]: https://img.shields.io/badge/Ubuntu-E95420?logo=Ubuntu&logoColor=white&style=for-the-badge "Ubuntu 14, 16, 18 & 20"
 [vuejs]: https://img.shields.io/badge/Vue.js-4FC08D?logo=Vue.js&logoColor=white&style=for-the-badge "Vue.js 2 & 3"
 [eleventy]: https://img.shields.io/badge/Eleventy-000000?logo=Eleventy&logoColor=white&style=for-the-badge "11ty"
+
+[scripting]: https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=GNU-bash&logoColor=white&style=for-the-badge "Bash scripting"
+[graphql]: https://img.shields.io/badge/GraphQL-E10098?logo=GraphQL&logoColor=white&style=for-the-badge "GraphQL"
+[rust]: https://img.shields.io/badge/Rust-000000?logo=Rust&logoColor=white&style=for-the-badge "Rust"
 
 [website]: https://img.shields.io/badge/inigochoa.me-E5A00D?logo=Plex&logoColor=white&style=for-the-badge
 [website link]: https://inigochoa.me/ "Visit my site"
