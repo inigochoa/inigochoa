@@ -6,6 +6,26 @@ I'm Iñigo, **backend developer** from the north of Spain. I am currently workin
 at [Veiss Comunicación][veiss] developing **web and mobile applications**.
 Here's a little bit of me.
 
+## :computer: Current stack
+
+![Android badge][android]
+![Drupal badge][drupal]
+![Git badge][git]
+![ionic badge][ionic]
+![iOS badge][ios]
+![JavaScript badge][javascript]
+![MariaDB badge][mariadb]
+![Markdown badge][markdown]
+![MySQL badge][mysql]
+![PHP badge][php]
+![PostgreSQL badge][postgresql]
+![Symfony badge][symfony]
+![TailwindCSS badge][tailwindcss]
+![Telegram badge][telegram bots]
+![Ubuntu badge][ubuntu]
+![Vue.js badge][vuejs]
+![11ty badge][eleventy]
+
 ## :mailbox: How can you reach me
 
 [![Website badge][website]][website link]
@@ -13,6 +33,24 @@ Here's a little bit of me.
 
 [avatar]: images/avatar.png "Iñigo Ochoa"
 [veiss]: https://www.veiss.com/ "Diseño web en Veiss Comunicación"
+
+[android]: https://img.shields.io/badge/android-3DDC84?logo=android&logoColor=white&style=for-the-badge "Android"
+[drupal]: https://img.shields.io/badge/drupal-0678BE?logo=drupal&logoColor=white&style=for-the-badge "Drupal 6, 7 & 8"
+[git]: https://img.shields.io/badge/git-F05032?logo=git&logoColor=white&style=for-the-badge "Git, GitHub"
+[ionic]: https://img.shields.io/badge/ionic-3880FF?logo=ionic&logoColor=white&style=for-the-badge "ionic framework"
+[ios]: https://img.shields.io/badge/iOS-000000?logo=iOS&logoColor=white&style=for-the-badge "iOS"
+[javascript]: https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=for-the-badge "Vanilla JavaScript, jQuery"
+[mariadb]: https://img.shields.io/badge/MariaDB-003545?logo=MariaDB&logoColor=white&style=for-the-badge "MariaDB"
+[markdown]: https://img.shields.io/badge/Markdown-000000?logo=Markdown&logoColor=white&style=for-the-badge "Markdown"
+[mysql]: https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white&style=for-the-badge "MySQL"
+[php]: https://img.shields.io/badge/PHP-777BB4?logo=PHP&logoColor=white&style=for-the-badge "PHP 5 & 7"
+[postgresql]: https://img.shields.io/badge/PostgreSQL-4169E1?logo=PostgreSQL&logoColor=white&style=for-the-badge "PostgreSQL"
+[symfony]: https://img.shields.io/badge/symfony-000000?logo=symfony&logoColor=white&style=for-the-badge "Symfony 2, 3, 4 & 5"
+[tailwindcss]: https://img.shields.io/badge/TailwindCSS-06B6D4?logo=Tailwind-CSS&logoColor=white&style=for-the-badge "TailwindCSS 2 & 3"
+[telegram bots]: https://img.shields.io/badge/Telegram%20Bots-26A5E4?logo=Telegram&logoColor=white&style=for-the-badge "Telegram bots"
+[ubuntu]: https://img.shields.io/badge/Ubuntu-E95420?logo=Ubuntu&logoColor=white&style=for-the-badge "Ubuntu 14, 16, 18 & 20"
+[vuejs]: https://img.shields.io/badge/Vue.js-4FC08D?logo=Vue.js&logoColor=white&style=for-the-badge "Vue.js 2 & 3"
+[eleventy]: https://img.shields.io/badge/Eleventy-000000?logo=Eleventy&logoColor=white&style=for-the-badge "11ty"
 
 [website]: https://img.shields.io/badge/inigochoa.me-E5A00D?logo=Plex&logoColor=white&style=for-the-badge
 [website link]: https://inigochoa.me/ "Visit my site"
