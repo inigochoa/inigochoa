@@ -36,7 +36,7 @@ Here's a little bit of me.
 
 [![ReadMe Card][monitorbot]][monitorbot link]
 [![ReadMe Card][inigochoa-me]][inigochoa-me link]
-[![ReadMe Card][inigochoa-npm]][inigochoa-npm link]
+[![ReadMe Card][card]][card link]
 
 ## :mailbox: How can you reach me
 
@@ -72,8 +72,8 @@ Here's a little bit of me.
 [monitorbot link]: https://github.com/inigochoa/monitorbot "See monitorbot code on GitHub"
 [inigochoa-me]: https://github-readme-stats.vercel.app/api/pin/?username=inigochoa&repo=inigochoa.me
 [inigochoa-me link]: https://github.com/inigochoa/inigochoa.me "See portfolio code on GitHub"
-[inigochoa-npm]: https://github-readme-stats.vercel.app/api/pin/?username=inigochoa&repo=inigochoa-npm
-[inigochoa-npm link]: https://github.com/inigochoa/inigochoa-npm "See NPM Card code on GitHub"
+[card]: https://github-readme-stats.vercel.app/api/pin/?username=inigochoa&repo=card
+[card link]: https://github.com/inigochoa/card "See NPM Card code on GitHub"
 
 [website]: https://img.shields.io/badge/inigochoa.me-E5A00D?logo=Plex&logoColor=white&style=for-the-badge
 [website link]: https://inigochoa.me/ "Visit my site"
