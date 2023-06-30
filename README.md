@@ -25,6 +25,7 @@ Here's a little bit of me.
 ![Ubuntu badge][ubuntu]
 ![Vue.js badge][vuejs]
 ![11ty badge][eleventy]
+![Astro badge][astro]
 
 ## :books: Future stack goals
 
@@ -34,6 +35,7 @@ Here's a little bit of me.
 
 ## :man_technologist: What I have done
 
+[![ReadMe Card][lock-code-challenge]][lock-code-challenge link]
 [![ReadMe Card][monitorbot]][monitorbot link]
 [![ReadMe Card][inigochoa-me]][inigochoa-me link]
 [![ReadMe Card][card]][card link]
@@ -63,11 +65,14 @@ Here's a little bit of me.
 [ubuntu]: https://img.shields.io/badge/Ubuntu-E95420?logo=Ubuntu&logoColor=white&style=for-the-badge "Ubuntu 14, 16, 18 & 20"
 [vuejs]: https://img.shields.io/badge/Vue.js-4FC08D?logo=Vue.js&logoColor=white&style=for-the-badge "Vue.js 2 & 3"
 [eleventy]: https://img.shields.io/badge/Eleventy-000000?logo=Eleventy&logoColor=white&style=for-the-badge "11ty"
+[astro]: https://img.shields.io/badge/Astro-FF5D01?logo=Astro&logoColor=white&style=for-the-badge "Astro"
 
 [scripting]: https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=GNU-bash&logoColor=white&style=for-the-badge "Bash scripting"
 [graphql]: https://img.shields.io/badge/GraphQL-E10098?logo=GraphQL&logoColor=white&style=for-the-badge "GraphQL"
 [rust]: https://img.shields.io/badge/Rust-000000?logo=Rust&logoColor=white&style=for-the-badge "Rust"
 
+[lock-code-challenge]: https://github-readme-stats.vercel.app/api/pin/?username=inigochoa&repo=lock-code-challenge
+[lock-code-challenge link]: https://github.com/inigochoa/lock-code-challenge "See Lock Code Challenge code on GitHub"
 [monitorbot]: https://github-readme-stats.vercel.app/api/pin/?username=inigochoa&repo=monitorbot
 [monitorbot link]: https://github.com/inigochoa/monitorbot "See monitorbot code on GitHub"
 [inigochoa-me]: https://github-readme-stats.vercel.app/api/pin/?username=inigochoa&repo=inigochoa.me

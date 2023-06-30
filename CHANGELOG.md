@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.2.0] - 2023-06-30
+
+### Features
+
+- Add lock code challenge
+
 ## [1.1.0] - 2022-02-18
 
 ### Features
