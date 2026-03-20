@@ -1,86 +1,87 @@
-# :wave: Hello there
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ef4444&height=240&section=header&text=I%C3%B1igo&fontSize=68&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=Backend%20Developer&descSize=20&descAlignY=58&descColor=ffffffaa&animation=fadeIn&stroke=ffffff&strokeWidth=2" width="100%"/>
+</div>
 
-![Avatar for Iñigo Ochoa][avatar]
+<div align="center">
 
-I'm Iñigo, **backend developer** from the north of Spain. I am currently working
-at [Veiss Comunicación][veiss] developing **web and mobile applications**.
-Here's a little bit of me.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=ef4444&center=true&vCenter=true&width=600&lines=Backend%20developer%20%F0%9F%9A%80;Basketball%20%F0%9F%8F%80;Music%20%F0%9F%8E%A7)](https://git.io/typing-svg)
 
-## :computer: Current stack
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@inigochoa.me) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=googlechrome&logoColor=white)](https://inigochoa.me)
 
-![Android badge][android]
-![Drupal badge][drupal]
-![Git badge][git]
-![ionic badge][ionic]
-![iOS badge][ios]
-![JavaScript badge][javascript]
-![MariaDB badge][mariadb]
-![Markdown badge][markdown]
-![MySQL badge][mysql]
-![PHP badge][php]
-![PostgreSQL badge][postgresql]
-![Symfony badge][symfony]
-![TailwindCSS badge][tailwindcss]
-![Telegram badge][telegram bots]
-![Ubuntu badge][ubuntu]
-![Vue.js badge][vuejs]
-![11ty badge][eleventy]
-![Astro badge][astro]
+</div>
 
-## :books: Future stack goals
+### About
 
-![Bash scripting badge][scripting]
-![GraphQL badge][graphql]
-![Rust badge][rust]
+I’m a backend developer in Vitoria-Gasteiz. I mainly work with Symfony, building
+APIs and web applications. Right now, I primarily use PHP, TypeScript, and
+JavaScript.
 
-## :man_technologist: What I have done
+I like to keep things simple, write clean code, and build software that stands
+the test of time.
 
-[![ReadMe Card][lock-code-challenge]][lock-code-challenge link]
-[![ReadMe Card][monitorbot]][monitorbot link]
-[![ReadMe Card][inigochoa-me]][inigochoa-me link]
-[![ReadMe Card][card]][card link]
+I also build hybrid mobile apps and work on frontend development when needed
+(Vue, Astro, Tailwind).
 
-## :mailbox: How can you reach me
+⌖ **Location** &nbsp; Vitoria-Gasteiz, Spain <br/>
+⌗ **Experience** &nbsp; 9+ years <br/>
+◎ **Education** &nbsp; Deusto University <br/>
+⟳ **Learning** &nbsp; Typescript, Astro
 
-[![Website badge][website]][website link]
-[![Buy me a coffee badge][buy me a coffee]][buy me a coffee link]
+✦ **Fun fact** &nbsp; 15+ years as basketball coach
 
-[avatar]: images/avatar.png "Iñigo Ochoa"
-[veiss]: https://www.veiss.com/ "Diseño web en Veiss Comunicación"
+---
 
-[android]: https://img.shields.io/badge/android-3DDC84?logo=android&logoColor=white&style=for-the-badge "Android"
-[drupal]: https://img.shields.io/badge/drupal-0678BE?logo=drupal&logoColor=white&style=for-the-badge "Drupal 6, 7 & 8"
-[git]: https://img.shields.io/badge/git-F05032?logo=git&logoColor=white&style=for-the-badge "Git, GitHub"
-[ionic]: https://img.shields.io/badge/ionic-3880FF?logo=ionic&logoColor=white&style=for-the-badge "ionic framework"
-[ios]: https://img.shields.io/badge/iOS-000000?logo=iOS&logoColor=white&style=for-the-badge "iOS"
-[javascript]: https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=for-the-badge "Vanilla JavaScript, jQuery"
-[mariadb]: https://img.shields.io/badge/MariaDB-003545?logo=MariaDB&logoColor=white&style=for-the-badge "MariaDB"
-[markdown]: https://img.shields.io/badge/Markdown-000000?logo=Markdown&logoColor=white&style=for-the-badge "Markdown"
-[mysql]: https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white&style=for-the-badge "MySQL"
-[php]: https://img.shields.io/badge/PHP-777BB4?logo=PHP&logoColor=white&style=for-the-badge "PHP 5 & 7"
-[postgresql]: https://img.shields.io/badge/PostgreSQL-4169E1?logo=PostgreSQL&logoColor=white&style=for-the-badge "PostgreSQL"
-[symfony]: https://img.shields.io/badge/symfony-000000?logo=symfony&logoColor=white&style=for-the-badge "Symfony 2, 3, 4 & 5"
-[tailwindcss]: https://img.shields.io/badge/TailwindCSS-06B6D4?logo=Tailwind-CSS&logoColor=white&style=for-the-badge "TailwindCSS 2 & 3"
-[telegram bots]: https://img.shields.io/badge/Telegram%20Bots-26A5E4?logo=Telegram&logoColor=white&style=for-the-badge "Telegram bots"
-[ubuntu]: https://img.shields.io/badge/Ubuntu-E95420?logo=Ubuntu&logoColor=white&style=for-the-badge "Ubuntu 14, 16, 18 & 20"
-[vuejs]: https://img.shields.io/badge/Vue.js-4FC08D?logo=Vue.js&logoColor=white&style=for-the-badge "Vue.js 2 & 3"
-[eleventy]: https://img.shields.io/badge/Eleventy-000000?logo=Eleventy&logoColor=white&style=for-the-badge "11ty"
-[astro]: https://img.shields.io/badge/Astro-FF5D01?logo=Astro&logoColor=white&style=for-the-badge "Astro"
+### Stack
 
-[scripting]: https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=GNU-bash&logoColor=white&style=for-the-badge "Bash scripting"
-[graphql]: https://img.shields.io/badge/GraphQL-E10098?logo=GraphQL&logoColor=white&style=for-the-badge "GraphQL"
-[rust]: https://img.shields.io/badge/Rust-000000?logo=Rust&logoColor=white&style=for-the-badge "Rust"
+**Languages**
 
-[lock-code-challenge]: https://github-readme-stats.vercel.app/api/pin/?username=inigochoa&repo=lock-code-challenge
-[lock-code-challenge link]: https://github.com/inigochoa/lock-code-challenge "See Lock Code Challenge code on GitHub"
-[monitorbot]: https://github-readme-stats.vercel.app/api/pin/?username=inigochoa&repo=monitorbot
-[monitorbot link]: https://github.com/inigochoa/monitorbot "See monitorbot code on GitHub"
-[inigochoa-me]: https://github-readme-stats.vercel.app/api/pin/?username=inigochoa&repo=inigochoa.me
-[inigochoa-me link]: https://github.com/inigochoa/inigochoa.me "See portfolio code on GitHub"
-[card]: https://github-readme-stats.vercel.app/api/pin/?username=inigochoa&repo=card
-[card link]: https://github.com/inigochoa/card "See NPM Card code on GitHub"
+<img src="https://skillicons.dev/icons?i=js,ts,php,html,css&theme=dark" alt="Languages"/>
 
-[website]: https://img.shields.io/badge/inigochoa.me-E5A00D?logo=Plex&logoColor=white&style=for-the-badge
-[website link]: https://inigochoa.me/ "Visit my site"
-[buy me a coffee]: https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?logo=Buy%20Me%20A%20Coffee&logoColor=black&style=for-the-badge
-[buy me a coffee link]: https://www.buymeacoffee.com/inigochoa "Buy me a coffee"
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=vue,astro,tailwind&theme=dark" alt="Frontend"/>
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" alt="Backend & Databases"/>
+
+**DevOps & Cloud**
+
+<img src="https://skillicons.dev/icons?i=docker,git,linux&theme=dark" alt="DevOps & Cloud"/>
+
+---
+
+### Languages
+
+🇪🇸 **Spanish** &nbsp; ![Native](https://img.shields.io/badge/-Native-brightgreen?style=flat-square) <br/>
+🌐 **Basque** &nbsp; ![Advanced](https://img.shields.io/badge/-Advanced-success?style=flat-square) <br/>
+🇬🇧 **English** &nbsp; ![Advanced](https://img.shields.io/badge/-Advanced-success?style=flat-square) <br/>
+🇩🇪 **German** &nbsp; ![Conversational](https://img.shields.io/badge/-Conversational-important?style=flat-square) <br/>
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inigochoa&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+> *"Talk is cheap. Show me the code. -- Linus Torvalds"*
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>Made with <a href="https://lebedevnet.github.io/ReadmeForge">ReadmeForge</a> &nbsp;·&nbsp; <a href="https://github.com/inigochoa">github.com/inigochoa</a></sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ef4444&height=120&section=footer" width="100%"/>
+
+</div>
